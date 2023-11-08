@@ -108,8 +108,3 @@ Hasilnya
 
 
 https://github.com/alifamarta/PemogramanMobile-UTS/assets/115516820/52158903-00ec-44bf-9884-a0808a6fee7f
-
-
-
-Uploading 1108.mp4…
-
