@@ -1,6 +1,6 @@
-<h1 align="center">UTS Pemograman Mobile</h1>
+<h1>UTS Pemograman Mobile</h1>
 
-<table align="center">
+<table>
   <tr>
     <th colspan="2">DATA MAHASISWA</th>
   </tr>
